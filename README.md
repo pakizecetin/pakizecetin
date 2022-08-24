@@ -1,9 +1,8 @@
 ## Hi! I'm Pakize...👋
 
 
-- 🔭 I'm currently working on Machine Learning
-- 🌱 I'm currently learning Machine Learning
-- 💬 I am happy to teach you what I know and eager to learn what you will offer  
+- 🔭 I'm currently learning Machine Learning
+ 
 
 
 ## 👨👩 Social
