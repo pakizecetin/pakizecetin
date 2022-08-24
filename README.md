@@ -18,7 +18,6 @@
 
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="180"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" width="180"/> </a>
-<a href="#" target="_blank"> <img src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" width="180"/> </a>
 
 <a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
