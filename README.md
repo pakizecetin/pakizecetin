@@ -1,4 +1,4 @@
-## Hi there. I'm Pakize...👋
+## Hi! I'm Pakize...👋
 
 
 - 🔭 I'm currently working on Machine Learning
