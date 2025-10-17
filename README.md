@@ -1,5 +1,5 @@
-## Hi! I'm Pakize...👋
+## Hi! Ich bin Pakize...👋
 
 
-- 🔭 I'm currently learning Machine Learning
+- Ich arbeite derzeit als Praktikant im Bereich Datenanalyse...
  
